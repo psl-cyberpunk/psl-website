@@ -2,7 +2,6 @@
 title: "Test 123"
 date: 2024-07-24T20:49:58.000Z
 description: D.
-author: Alex Smith
 tags:
     - Socialism
     - communism
