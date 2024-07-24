@@ -6,7 +6,7 @@ tags:
     - Socialism
     - communism
     - etc 
-    ---
+---
 
 ![](/images/photo_2024-07-23_16-55-16.jpg)
 
