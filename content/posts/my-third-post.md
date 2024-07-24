@@ -1,11 +1,12 @@
 ---
 title: "Test 123"
-date: 2024-07-24T20:49:58.000Z
+date: 2024-06-24T20:49:58.000Z
 description: D.
 tags:
     - Socialism
     - communism
----
+    - etc 
+    ---
 
 ![](/images/photo_2024-07-23_16-55-16.jpg)
 
