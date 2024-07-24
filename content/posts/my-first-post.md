@@ -7,7 +7,7 @@ tags:
     - todo
 ---
 
-![](/images/test.png)
+![](/static/images/test.png)
 
 Some hypothetical change....
 
